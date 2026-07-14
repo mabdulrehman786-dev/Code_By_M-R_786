@@ -7,9 +7,9 @@
     Project Name  : OFFICE MANAGEMENT SYSTEM (OMS)
 
     Group Members :
-        1. M Abdul-Rehman  
-        2. Obaid Safdar
-        3. Suffiyan-ul-Hasan  
+        1. Member 1
+        2. Member 2
+        3. Member 3
 
  ==========================================================================================================
     PROJECT IDEA:
